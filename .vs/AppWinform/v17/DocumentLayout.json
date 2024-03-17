@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winform\\HomeWork\\AppWinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|e:\\winform\\homework\\appwinform\\appwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|solutionrelative:appwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|e:\\winform\\homework\\appwinform\\appwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|solutionrelative:appwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|e:\\winform\\homework\\appwinform\\appwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ACDCF12-44DD-4D44-AD12-A940C3EAF455}|AppWinform\\AppWinform.csproj|solutionrelative:appwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppWinform\\Form1.Designer.cs",
+              "ToolTip": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Form1.Designer.cs",
+              "RelativeToolTip": "AppWinform\\Form1.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:59:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Form1.cs",
+              "RelativeDocumentMoniker": "AppWinform\\Form1.cs",
+              "ToolTip": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Form1.cs [Design]",
+              "RelativeToolTip": "AppWinform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:59:00.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Program.cs",
+              "RelativeDocumentMoniker": "AppWinform\\Program.cs",
+              "ToolTip": "E:\\Winform\\HomeWork\\AppWinform\\AppWinform\\Program.cs",
+              "RelativeToolTip": "AppWinform\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:56:04.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

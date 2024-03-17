@@ -1,0 +1,9 @@
+E:\Winform\HomeWork\AppWinform\AppWinform\bin\Debug\AppWinform.exe.config
+E:\Winform\HomeWork\AppWinform\AppWinform\bin\Debug\AppWinform.exe
+E:\Winform\HomeWork\AppWinform\AppWinform\bin\Debug\AppWinform.pdb
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.csproj.AssemblyReference.cache
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.Properties.Resources.resources
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.csproj.GenerateResource.cache
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.csproj.CoreCompileInputs.cache
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.exe
+E:\Winform\HomeWork\AppWinform\AppWinform\obj\Debug\AppWinform.pdb
